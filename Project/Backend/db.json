@@ -1,0 +1,24 @@
+[
+    {
+        "id": "885f76b7-b689-4eec-89d1-42d687db5888",
+        "name": "Admin User",
+        "email": "admin@example.com",
+        "password": "$2a$10$wBdmP9PWB4uNGuMR0eWUQOFrnvmJFBhiv1rgoPNBIaIF9TfwIY4g.",
+        "avatar": "https://img.freepik.com/premium-photo/beautiful-butterfly-images-brighten-your-day_1199394-94530.jpg",
+        "role": "Admin",
+        "status": "Active",
+        "createdAt": "2024-11-22T14:00:00.000Z",
+        "updatedAt": "2024-11-22T14:00:00.000Z"
+    },
+    {
+        "id": "1a641d7b-4d07-4818-ab46-c3575f2b93a8",
+        "name": "new name",
+        "email": "user1@example.com",
+        "password": "$2a$10$Vkl7Br9pFmhQCi8o.BkwCuMgxkEzwlaP4hL8MTZDMA9Q5YE8KlZ6u",
+        "avatar": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+        "role": "User",
+        "status": "Inactive",
+        "createdAt": "2024-11-22T17:21:05.946Z",
+        "updatedAt": "2024-11-22T17:39:26.670Z"
+    }
+]
